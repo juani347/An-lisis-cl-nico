@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="Modelo.Almacen" id="Almacen0">
+  <void property="analisis">
+   <void method="add">
+    <object class="Modelo.Analisis" id="Analisis0">
+     <void property="apNombre">
+      <string>Juan Perez</string>
+     </void>
+     <void property="domicilio">
+      <string>Reconquista 5004</string>
+     </void>
+     <void property="estudios">
+      <void method="put">
+       <string>Colesterol</string>
+       <double>609.5</double>
+      </void>
+      <void method="put">
+       <string>ElectroCardiograma</string>
+       <double>345678.5</double>
+      </void>
+     </void>
+     <void property="fecha">
+      <string>01-01-1990</string>
+     </void>
+     <void property="id">
+      <string>0001</string>
+     </void>
+     <void property="medico">
+      <string>Pilar</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="nombre">
+   <string>Facundo</string>
+  </void>
+ </object>
+</java>

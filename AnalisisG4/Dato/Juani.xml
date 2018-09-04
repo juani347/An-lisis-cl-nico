@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="Modelo.Almacen" id="Almacen0">
+  <void property="analisis">
+   <void method="add">
+    <object class="Modelo.Analisis" id="Analisis0">
+     <void property="apNombre">
+      <string>Rossi, Franco</string>
+     </void>
+     <void property="domicilio">
+      <string>Almafuerte 1827</string>
+     </void>
+     <void property="estudios">
+      <void method="put">
+       <string>1</string>
+       <double>982.9</double>
+      </void>
+      <void method="put">
+       <string>2</string>
+       <double>20.56</double>
+      </void>
+      <void method="put">
+       <string>3</string>
+       <double>345.23</double>
+      </void>
+      <void method="put">
+       <string>4</string>
+       <double>123.45</double>
+      </void>
+     </void>
+     <void property="fecha">
+      <string>17/06/97</string>
+     </void>
+     <void property="id">
+      <string>5654</string>
+     </void>
+     <void property="medico">
+      <string>Pilar Mutti</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="nombre">
+   <string>Juani</string>
+  </void>
+ </object>
+</java>
